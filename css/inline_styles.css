@@ -351,7 +351,7 @@
     .manual-play-button:hover {
       background: rgba(255, 0, 0, 0.8);
       transform: translate(-50%, -50%) scale(1.05);
-    }#myLogo {width:60px;height:40px;
+    }#myLogo {width:100px;height:40px;
   position: absolute;
   right: 5px;
   top: 10px;
